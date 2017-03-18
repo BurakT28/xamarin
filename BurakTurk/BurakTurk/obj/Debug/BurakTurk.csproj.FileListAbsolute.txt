@@ -1,0 +1,17 @@
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\BurakTurk.dll
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\BurakTurk.pdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\obj\Debug\BurakTurk.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\obj\Debug\BurakTurk.dll
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\obj\Debug\BurakTurk.pdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\obj\Debug\BurakTurk.dll.mdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\BurakTurk.dll.mdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\obj\Debug\BurakTurk.dll.mdb
+C:\Users\Burak\Desktop\BurakTurkXamarin\BurakTurk\BurakTurk\BurakTurk\bin\Debug\BurakTurk.dll.mdb
