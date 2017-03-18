@@ -1,0 +1,157 @@
+[
+	{
+		"id": "1",
+		"name": "Assassin's Creed",
+		"year": "2007",
+		"info": "a",
+		"character": "Altaïr Ibn-La'Ahad",
+		"imageurl": "http://www.games1122.com/wp-content/uploads/2013/10/Assassins-Creed-1.jpg",
+		"location": [
+		    {
+		        "id":"1",
+		        "location":"Jerusalem",
+		        "flagurl":""
+		    },
+		    {
+		        "id":"2",
+		        "location":"Akko",
+		        "flagurl":""
+		    },
+		    {
+		        "id":"3",
+		        "location":"Damascus",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "2",
+		"name": "Assassin's Creed II ",
+		"year": "2009",
+		"info": "a",
+		"character": "Ezio Auditore da Firenze",
+		"imageurl": "https://www.technobuffalo.com/wp-content/uploads/2013/07/Assassins-Creed-II.jpg",
+		"location": [
+		    {
+		        "id":"4",
+		        "location":"Venetië",
+		        "flagurl":""
+		    },
+		    {
+		        "id":"5",
+		        "location":"Florence",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "3",
+		"name": "Assassin's Creed: Brotherhood ",
+		"year": "2010",
+		"info": "a",
+		"character": "Ezio Auditore da Firenze",
+		"imageurl": "http://cdn.akamai.steamstatic.com/steam/apps/48190/header.jpg?t=1452180969",
+		"location": [
+		    {
+		        "id":"6",
+		        "location":"Rome",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "4",
+		"name": "Assassin's Creed: Revelations",
+		"year": "2011",
+		"info": "a",
+		"character": "Ezio Auditore da Firenze",
+		"imageurl": "http://cdn.edgecast.steamstatic.com/steam/apps/201870/header.jpg?t=1452181129",
+		"location": [
+		    {
+		        "id":"7",
+		        "location":"Istanbul",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "5",
+		"name": "Assassin's Creed III ",
+		"year": "2012",
+		"info": "a",
+		"character": "Connor (Ratonhnhaké:ton)",
+		"imageurl": "http://getintopc.com/wp-content/uploads/2013/04/Assassins-Creed-3-free-download-full-verion-game.jpg",
+		"location": [
+		    {
+		        "id":"8",
+		        "location":"Boston",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "6",
+		"name": "Assassin's Creed IV: Black Flag ",
+		"year": "2013",
+		"info": "a",
+		"character": "Edward Kenway",
+		"imageurl": "https://ubistatic19-a.akamaihd.net/resource/nl-NL/game/assassins-creed/ac/gamebuy-ac4-image_135481.jpg",
+		"location": [
+		    {
+		        "id":"9",
+		        "location":"Havana",
+		        "flagurl":""
+		    },
+		    {
+		        "id":"10",
+		        "location":"Kingston",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "7",
+		"name": "Assassin's Creed Rogue ",
+		"year": "2014",
+		"info": "a",
+		"character": "Shay Patrick Cormac",
+		"imageurl": "https://static.sportskeeda.com/wp-content/uploads/2014/11/rogue-1416931362.jpg",
+		"location": [
+		    {
+		        "id":"11",
+		        "location":"New York",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "8",
+		"name": "Assassin's Creed Unity ",
+		"year": "2014",
+		"info": "a",
+		"character": "Arno Victor Dorian",
+		"imageurl": "https://i.ytimg.com/vi/ND3SPZ3H8AI/maxresdefault.jpg",
+		"location": [
+		    {
+		        "id":"12",
+		        "location":"Parijs",
+		        "flagurl":""
+		    }
+		    ]
+	},
+	{
+		"id": "9",
+		"name": "Assassin's Creed Syndicate",
+		"year": "2015",
+		"info": "a",
+		"character": "Jacob & Evie Frye",
+		"imageurl": "http://www.therobotsvoice.com/wp-content/uploads/2015/10/syndicate-title.jpg",
+		"location": [
+		    {
+		        "id":"11",
+		        "location":"Londen",
+		        "flagurl":""
+		    }
+		    ]
+	}
+]
