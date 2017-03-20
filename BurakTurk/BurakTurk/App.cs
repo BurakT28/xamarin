@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BurakTurk.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,22 +13,7 @@ namespace BurakTurk
         public App()
         {
             // The root page of your application
-            var content = new ContentPage
-            {
-                Title = "BurakTurk",
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome Burak Turk"
-                        }
-                    }
-                }
-            };
-
-            MainPage = new NavigationPage(content);
+            MainPage = new GameListPage();
         }
 
         protected override void OnStart()
